@@ -1,6 +1,8 @@
-# workflow-diagrams
+# Workflow Diagrams
 
-A collection of diagrams mainly related to Physics topics, such as Nuclear Structure, Quantum Mechanics, and more.
+## View physical concepts in a clear & concise structure
+
+A collection of diagrams mainly related to Physics topics, such as Nuclear Structure, Quantum Mechanics, and others. Each topic will be structured in a conenient way, with only the essential information that is needed in order to get a *good grasp* on the topic at hand,
 
 * Some diagrams with concepts from Computer Science are also available. 💻
 * Content will be continously extended. ⚙️ 
