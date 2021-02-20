@@ -12,3 +12,9 @@ A collection of diagrams mainly related to Physics topics, such as Nuclear Struc
 ## Development
 
 The diagrams will be mostly created in [diagrams.net](https://www.diagrams.net/). This is a free browser interface which allows creation of complex diagrams and also export to different file formats.
+
+## Example with a diagram
+
+🗓 Below a diagram showing information with regards to the *nuclear charge distribution* is shown. The development was done within [diagrams.net](diagrams.net).
+
+![](./Content/Nuclear-Theory/chargeDistribution.png)
